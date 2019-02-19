@@ -1,2 +1,3 @@
-eature1
-Feature2
+
+Another fisx to Bug#1234
+>>>>>>> feature2_additional
